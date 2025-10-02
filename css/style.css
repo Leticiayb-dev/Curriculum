@@ -86,42 +86,42 @@ ul{
 .progressoOrganizacao {
     width: 85%;                   /* quanto da barra está preenchido  */
     height: 100%;
-    background-color: #9000FF;     /* o roxo */
+    background-color: #9000FF;     
      border-radius: 100px;           /* arredondar também o preenchimento */
 }
 
 .progressoTrabalho {
     width: 60%;                   /* quanto da barra está preenchido  */
     height: 100%;
-    background-color: #9000FF;     /* o roxo */
+    background-color: #9000FF;     
      border-radius: 100px;           /* arredondar também o preenchimento */
 }
 
 .progressoCriatividade {
     width: 65%;                   /* quanto da barra está preenchido  */
     height: 100%;
-    background-color: #9000FF;     /* o roxo */
+    background-color: #9000FF;    
      border-radius: 100px;           /* arredondar também o preenchimento */
 }
 
 .progressoProatividade {
     width: 60%;                   /* quanto da barra está preenchido  */
     height: 100%;
-    background-color: #9000FF;     /* o roxo */
+    background-color: #9000FF;     
      border-radius: 100px;           /* arredondar também o preenchimento */
 }
 
 .progressoComunicacao {
     width: 65%;                   /* quanto da barra está preenchido  */
     height: 100%;
-    background-color: #9000FF;     /* o roxo */
+    background-color: #9000FF;    
      border-radius: 100px;           /* arredondar também o preenchimento */
 }
 
 .progressoAtendimento {
     width: 70%;                   /* quanto da barra está preenchido  */
     height: 100%;
-    background-color: #9000FF;     /* o roxo */
+    background-color: #9000FF;     
     border-radius: 100px;           /* arredondar também o preenchimento */
 }
 
@@ -130,7 +130,7 @@ ul{
 .imagens-aplicacoes {
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* 2 colunas */
-  gap: 30px 40px;  /* 30px espaço vertical, 40px horizontal (ajuste se quiser) */
+  gap: 30px 40px;  /* 30px espaço vertical, 40px horizontal  */
   justify-items: center;
   align-items: center;
   padding: 20px 0;
@@ -165,6 +165,7 @@ ul{
   object-fit: cover;      /* Ajusta a imagem para preencher o círculo */
   border: 3px solid #9000FF; /* Borda roxa  */
 }
+
 
 
 
